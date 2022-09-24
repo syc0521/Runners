@@ -1,0 +1,406 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 063d6c0290728ed49965f8814ff335df, type: 3}
+  m_Name: TextTable
+  m_EditorClassIdentifier: 
+  SheetName: Assets/ScriptableObjs/TextTable.xlsx
+  WorksheetName: TextTable
+  dataArray:
+  - id: 0
+    text: "\u8BF7\u6309{0}\u952E\u7EE7\u7EED"
+  - id: 1
+    text: "\u8BF7\u6309{0}\u952E\u6295\u5E01"
+  - id: 1000
+    text: "\u4EFB\u610F"
+  - id: 1001
+    text: "\u952E\u76D8\u7A7A\u683C/J"
+  - id: 1002
+    text: "\u952E\u76D8K"
+  - id: 1003
+    text: "\u952E\u76D8S"
+  - id: 1004
+    text: "\u624B\u67C4A"
+  - id: 1005
+    text: "\u624B\u67C4X"
+  - id: 1006
+    text: "\u624B\u67C4\u4E0B"
+  - id: 1007
+    text: "\u952E\u76D8W/S"
+  - id: 1008
+    text: "\u624B\u67C4\u4E0A/\u4E0B"
+  - id: 1009
+    text: "\u624B\u67C4RT"
+  - id: 1010
+    text: "\u952E\u76D8\u56DE\u8F66"
+  - id: 1100
+    text: "\u68C0\u6D4B\u5230\u673A\u4F53\u80FD\u6E90\u635F\u574F\uFF0C\u8BF7\u53CA\u65F6\u8865\u5145\u80FD\u6E90"
+  - id: 1101
+    text: "\u6309\u4E0B {0} \u952E \u5B8C\u6210\u8DF3\u8DC3\u6307\u4EE4"
+  - id: 1102
+    text: "\u6309\u4E0B {0} \u952E \u5B8C\u6210\u98DE\u8E22\u6307\u4EE4"
+  - id: 1103
+    text: "\u6309\u4E0B {0} \u952E \u5B8C\u6210\u6ED1\u94F2\u6307\u4EE4"
+  - id: 1104
+    text: "\u6309\u4E0B {0} \u952E\u63A7\u5236\u55B7\u6C14\u80CC\u5305"
+  - id: 1105
+    text: "\u6309\u4E0B {0} \u952E \u5B8C\u6210\u8DF3\u8DC3\u6307\u4EE4"
+  - id: 1106
+    text: "\u6536\u96C6\u7535\u6C60\u8865\u5145\u80FD\u6E90"
+  - id: 1107
+    text: "\u5C1D\u8BD5\u7EC4\u5408\u8FD0\u7528\u4E4B\u524D\u5B66\u4F1A\u7684\u6307\u4EE4\u5427\uFF01"
+  - id: 1108
+    text: "\u8BD5\u8BD5\u770B\u5427\uFF01"
+  - id: 1109
+    text: "\u5E72\u7684\u6F02\u4EAE\uFF01"
+  - id: 1110
+    text: "\u9053\u8DEF\u4E0A\u8FD8\u4F1A\u51FA\u73B0\u963B\u62E6\u524D\u8FDB\u7684\u5783\u573E\u6876"
+  - id: 1111
+    text: "\u6309\u4E0B {0} \u952E \u8E22\u7206\u5783\u573E\u6876"
+  - id: 1112
+    text: "\u524D\u8DEF\u6F2B\u6F2B\uFF0C\u795D\u4F60\u597D\u8FD0\uFF01"
+  - id: 2000
+    text: "\u82AF\u7247"
+  - id: 2001
+    text: "\u82AF\u72471"
+  - id: 2002
+    text: "\u82AF\u72472"
+  - id: 2003
+    text: "\u82AF\u72473"
+  - id: 2004
+    text: "\u82AF\u72474"
+  - id: 2005
+    text: "\u6B22\u8FCE\u6765\u5230\u591C\u4E4B\u676D\u5DDE"
+  - id: 2006
+    text: "<\u6362\u5173\u5361>\u7B2C\u4E8C\u5173"
+  - id: 2007
+    text: "\u55B7\u6C14\u80CC\u5305\u68C0\u4FEE\u4E2D..."
+  - id: 2008
+    text: "\u8B66\u62A5\uFF01\u524D\u65B9\u53D1\u73B0\u4E0D\u660E\u751F\u7269\uFF01"
+  - id: 2009
+    text: ????
+  - id: 2010
+    text: "<\u5185\u6D4B>\u7B2C\u4E09\u5173"
+  - id: 3000
+    text: "\u4E3B\u7B56\u5212"
+  - id: 3001
+    text: "\u5173\u5361\u7B56\u5212"
+  - id: 3002
+    text: "\u7A0B\u5E8F"
+  - id: 3003
+    text: "\u6280\u672F\u7F8E\u672F"
+  - id: 3004
+    text: "\u4E3B\u7F8E\u672F"
+  - id: 3005
+    text: "UI/UX\u8BBE\u8BA1"
+  - id: 3006
+    text: "\u6280\u672F\u97F3\u9891"
+  - id: 3007
+    text: "\u6280\u672F\u7B56\u5212"
+  - id: 3008
+    text: "\u4EBA\u7269\u7F8E\u672F"
+  - id: 3009
+    text: "\u5236\u4F5C\u4EBA"
+  - id: 3010
+    text: "\u573A\u666F\u7F8E\u672F"
+  - id: 3011
+    text: "\u7279\u6548"
+  - id: 3012
+    text: "\u97F3\u9891\u6307\u5BFC"
+  - id: 3100
+    text: "\u90B8\u4F73\u73A5"
+  - id: 3101
+    text: "\u90B8\u4F73\u73A5 \u5355\u5143\u741B"
+  - id: 3102
+    text: "\u5355\u5143\u741B \u8DEF\u91D1\u78CA"
+  - id: 3103
+    text: "\u8DEF\u91D1\u78CA"
+  - id: 3104
+    text: "\u66F9\u51E4\u7FD4"
+  - id: 3105
+    text: "\u6F58\u53EF\u6B23"
+  - id: 3106
+    text: "\u5355\u5143\u741B"
+  - id: 3200
+    text: "\u6700\u4F73\u7FA4\u6F14"
+  - id: 3201
+    text: "\u51FA\u54C1"
+  - id: 3202
+    text: "\u611F\u8C22\u6E38\u73A9\uFF01"
+  - id: 3203
+    text: ' '
+  - id: 4001
+    text: "\u50CF\u7B28\u86CB\u4E00\u6837"
+  - id: 4002
+    text: "\u9686\u91CC\u7535\u4E1D"
+  - id: 4003
+    text: Bad Apple
+  - id: 4004
+    text: Unravel
+  - id: 4005
+    text: "\u8FBE\u54A9\u8FBE\u54A9~\u8FBE\u54A9\u5466~"
+  - id: 4006
+    text: "\u54E6baby \u545C\u545C\u545C\u545C\u545C~"
+  - id: 4007
+    text: "\u4E8C\u6B21\u5143"
+  - id: 4008
+    text: "\u75DB\uFF01\u592A\u75DB\u4E86\uFF01"
+  - id: 4009
+    text: "\u53EA\u56E0\u4F60\u592A\u7F8E"
+  - id: 4010
+    text: "\u5C0F\u9ED1\u5B50\u9732\u51FA\u9E21\u811A\u4E86\u5427doge"
+  - id: 9000
+    text: We're no strangers to love
+  - id: 9001
+    text: You know the rules and
+  - id: 9002
+    text: A full commitment's what I'm thinking of
+  - id: 9003
+    text: You wouldn't get this from any other guy
+  - id: 9004
+    text: I just wanna tell you how I'm feeling
+  - id: 9005
+    text: Gotta make you understand
+  - id: 9006
+    text: so do I
+  - id: 9007
+    text: Never gonna give you up
+  - id: 9008
+    text: Never gonna let you down
+  - id: 9009
+    text: Never gonna run around and desert you
+  - id: 9010
+    text: Never gonna make you cry
+  - id: 9011
+    text: Never gonna say goodbye
+  - id: 9012
+    text: Never gonna tell a lie and hurt you
+  - id: 9013
+    text: We've known each other for so long
+  - id: 9014
+    text: Your heart's been aching but
+  - id: 9015
+    text: you're too shy to say it
+  - id: 9016
+    text: Inside we both know what's been going on
+  - id: 9017
+    text: We know the game and we're gonna play it
+  - id: 9018
+    text: And if you ask me how I'm feeling
+  - id: 9019
+    text: Don't tell me you're too blind to see
+  - id: 9020
+    text: by Rick Astley
+  - id: 9021
+    text: 'Genre: Disco Funk'
+  - id: 9022
+    text: "\xB7 \xB7 \xB7 \xB7"
+  - id: 9023
+    text: "\xB7 \xB7 \xB7 "
+  - id: 9024
+    text: "\xB7 \xB7"
+  - id: 9025
+    text: "\xB7"
+  dataList:
+  - id: 0
+    text: "\u8BF7\u6309{0}\u952E\u7EE7\u7EED"
+  - id: 1
+    text: "\u8BF7\u6309{0}\u952E\u6295\u5E01"
+  - id: 1000
+    text: "\u4EFB\u610F"
+  - id: 1001
+    text: "\u952E\u76D8\u7A7A\u683C/J"
+  - id: 1002
+    text: "\u952E\u76D8K"
+  - id: 1003
+    text: "\u952E\u76D8S"
+  - id: 1004
+    text: "\u624B\u67C4A"
+  - id: 1005
+    text: "\u624B\u67C4X"
+  - id: 1006
+    text: "\u624B\u67C4\u4E0B"
+  - id: 1007
+    text: "\u952E\u76D8W/S"
+  - id: 1008
+    text: "\u624B\u67C4\u4E0A/\u4E0B"
+  - id: 1009
+    text: "\u624B\u67C4RT"
+  - id: 1010
+    text: "\u952E\u76D8\u56DE\u8F66"
+  - id: 1100
+    text: "\u68C0\u6D4B\u5230\u673A\u4F53\u80FD\u6E90\u635F\u574F\uFF0C\u8BF7\u53CA\u65F6\u8865\u5145\u80FD\u6E90"
+  - id: 1101
+    text: "\u6309\u4E0B {0} \u952E \u5B8C\u6210\u8DF3\u8DC3\u6307\u4EE4"
+  - id: 1102
+    text: "\u6309\u4E0B {0} \u952E \u5B8C\u6210\u98DE\u8E22\u6307\u4EE4"
+  - id: 1103
+    text: "\u6309\u4E0B {0} \u952E \u5B8C\u6210\u6ED1\u94F2\u6307\u4EE4"
+  - id: 1104
+    text: "\u6309\u4E0B {0} \u952E\u63A7\u5236\u55B7\u6C14\u80CC\u5305"
+  - id: 1105
+    text: "\u6309\u4E0B {0} \u952E \u5B8C\u6210\u8DF3\u8DC3\u6307\u4EE4"
+  - id: 1106
+    text: "\u6536\u96C6\u7535\u6C60\u8865\u5145\u80FD\u6E90"
+  - id: 1107
+    text: "\u5C1D\u8BD5\u7EC4\u5408\u8FD0\u7528\u4E4B\u524D\u5B66\u4F1A\u7684\u6307\u4EE4\u5427\uFF01"
+  - id: 1108
+    text: "\u8BD5\u8BD5\u770B\u5427\uFF01"
+  - id: 1109
+    text: "\u5E72\u7684\u6F02\u4EAE\uFF01"
+  - id: 1110
+    text: "\u9053\u8DEF\u4E0A\u8FD8\u4F1A\u51FA\u73B0\u963B\u62E6\u524D\u8FDB\u7684\u5783\u573E\u6876"
+  - id: 1111
+    text: "\u6309\u4E0B {0} \u952E \u8E22\u7206\u5783\u573E\u6876"
+  - id: 1112
+    text: "\u524D\u8DEF\u6F2B\u6F2B\uFF0C\u795D\u4F60\u597D\u8FD0\uFF01"
+  - id: 2000
+    text: "\u82AF\u7247"
+  - id: 2001
+    text: "\u82AF\u72471"
+  - id: 2002
+    text: "\u82AF\u72472"
+  - id: 2003
+    text: "\u82AF\u72473"
+  - id: 2004
+    text: "\u82AF\u72474"
+  - id: 2005
+    text: "\u6B22\u8FCE\u6765\u5230\u591C\u4E4B\u676D\u5DDE"
+  - id: 2006
+    text: "<\u6362\u5173\u5361>\u7B2C\u4E8C\u5173"
+  - id: 2007
+    text: "\u55B7\u6C14\u80CC\u5305\u68C0\u4FEE\u4E2D..."
+  - id: 2008
+    text: "\u8B66\u62A5\uFF01\u524D\u65B9\u53D1\u73B0\u4E0D\u660E\u751F\u7269\uFF01"
+  - id: 2009
+    text: ????
+  - id: 2010
+    text: "<\u5185\u6D4B>\u7B2C\u4E09\u5173"
+  - id: 3000
+    text: "\u4E3B\u7B56\u5212"
+  - id: 3001
+    text: "\u5173\u5361\u7B56\u5212"
+  - id: 3002
+    text: "\u7A0B\u5E8F"
+  - id: 3003
+    text: "\u6280\u672F\u7F8E\u672F"
+  - id: 3004
+    text: "\u4E3B\u7F8E\u672F"
+  - id: 3005
+    text: "UI/UX\u8BBE\u8BA1"
+  - id: 3006
+    text: "\u6280\u672F\u97F3\u9891"
+  - id: 3007
+    text: "\u6280\u672F\u7B56\u5212"
+  - id: 3008
+    text: "\u4EBA\u7269\u7F8E\u672F"
+  - id: 3009
+    text: "\u5236\u4F5C\u4EBA"
+  - id: 3010
+    text: "\u573A\u666F\u7F8E\u672F"
+  - id: 3011
+    text: "\u7279\u6548"
+  - id: 3012
+    text: "\u97F3\u9891\u6307\u5BFC"
+  - id: 3100
+    text: "\u90B8\u4F73\u73A5"
+  - id: 3101
+    text: "\u90B8\u4F73\u73A5 \u5355\u5143\u741B"
+  - id: 3102
+    text: "\u5355\u5143\u741B \u8DEF\u91D1\u78CA"
+  - id: 3103
+    text: "\u8DEF\u91D1\u78CA"
+  - id: 3104
+    text: "\u66F9\u51E4\u7FD4"
+  - id: 3105
+    text: "\u6F58\u53EF\u6B23"
+  - id: 3106
+    text: "\u5355\u5143\u741B"
+  - id: 3200
+    text: "\u6700\u4F73\u7FA4\u6F14"
+  - id: 3201
+    text: "\u51FA\u54C1"
+  - id: 3202
+    text: "\u611F\u8C22\u6E38\u73A9\uFF01"
+  - id: 3203
+    text: ' '
+  - id: 4001
+    text: "\u50CF\u7B28\u86CB\u4E00\u6837"
+  - id: 4002
+    text: "\u9686\u91CC\u7535\u4E1D"
+  - id: 4003
+    text: Bad Apple
+  - id: 4004
+    text: Unravel
+  - id: 4005
+    text: "\u8FBE\u54A9\u8FBE\u54A9~\u8FBE\u54A9\u5466~"
+  - id: 4006
+    text: "\u54E6baby \u545C\u545C\u545C\u545C\u545C~"
+  - id: 4007
+    text: "\u4E8C\u6B21\u5143"
+  - id: 4008
+    text: "\u75DB\uFF01\u592A\u75DB\u4E86\uFF01"
+  - id: 4009
+    text: "\u53EA\u56E0\u4F60\u592A\u7F8E"
+  - id: 4010
+    text: "\u5C0F\u9ED1\u5B50\u9732\u51FA\u9E21\u811A\u4E86\u5427doge"
+  - id: 9000
+    text: We're no strangers to love
+  - id: 9001
+    text: You know the rules and
+  - id: 9002
+    text: A full commitment's what I'm thinking of
+  - id: 9003
+    text: You wouldn't get this from any other guy
+  - id: 9004
+    text: I just wanna tell you how I'm feeling
+  - id: 9005
+    text: Gotta make you understand
+  - id: 9006
+    text: so do I
+  - id: 9007
+    text: Never gonna give you up
+  - id: 9008
+    text: Never gonna let you down
+  - id: 9009
+    text: Never gonna run around and desert you
+  - id: 9010
+    text: Never gonna make you cry
+  - id: 9011
+    text: Never gonna say goodbye
+  - id: 9012
+    text: Never gonna tell a lie and hurt you
+  - id: 9013
+    text: We've known each other for so long
+  - id: 9014
+    text: Your heart's been aching but
+  - id: 9015
+    text: you're too shy to say it
+  - id: 9016
+    text: Inside we both know what's been going on
+  - id: 9017
+    text: We know the game and we're gonna play it
+  - id: 9018
+    text: And if you ask me how I'm feeling
+  - id: 9019
+    text: Don't tell me you're too blind to see
+  - id: 9020
+    text: by Rick Astley
+  - id: 9021
+    text: 'Genre: Disco Funk'
+  - id: 9022
+    text: "\xB7 \xB7 \xB7 \xB7"
+  - id: 9023
+    text: "\xB7 \xB7 \xB7 "
+  - id: 9024
+    text: "\xB7 \xB7"
+  - id: 9025
+    text: "\xB7"

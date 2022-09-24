@@ -1,0 +1,118 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 26bbeef15a292ec458f434319853917c, type: 3}
+  m_Name: MusicTable
+  m_EditorClassIdentifier: 
+  SheetName: Assets/ScriptableObjs/MusicTable.xlsx
+  WorksheetName: MusicTable
+  dataArray:
+  - id: 0
+    musicid: 9
+    nameid: 2001
+    descid: 2005
+    unlockcondition: 00000000
+  - id: 1
+    musicid: 3
+    nameid: 2002
+    descid: 2006
+    unlockcondition: 09000000
+  - id: 2
+    musicid: 4
+    nameid: 2003
+    descid: 2007
+    unlockcondition: 09000000
+  - id: 3
+    musicid: 5
+    nameid: 2004
+    descid: 2010
+    unlockcondition: 0300000004000000
+  - id: 4
+    musicid: 8
+    nameid: 2009
+    descid: 2008
+    unlockcondition: 05000000
+  - id: 5
+    musicid: 10
+    nameid: 4001
+    descid: 4005
+    unlockcondition: 00000000
+  - id: 6
+    musicid: 11
+    nameid: 4002
+    descid: 4006
+    unlockcondition: 00000000
+  - id: 7
+    musicid: 12
+    nameid: 4003
+    descid: 4007
+    unlockcondition: 00000000
+  - id: 8
+    musicid: 13
+    nameid: 4004
+    descid: 4008
+    unlockcondition: 00000000
+  - id: 9
+    musicid: 14
+    nameid: 4009
+    descid: 4010
+    unlockcondition: 00000000
+  dataList:
+  - id: 0
+    musicid: 9
+    nameid: 2001
+    descid: 2005
+    unlockcondition: 00000000
+  - id: 1
+    musicid: 3
+    nameid: 2002
+    descid: 2006
+    unlockcondition: 09000000
+  - id: 2
+    musicid: 4
+    nameid: 2003
+    descid: 2007
+    unlockcondition: 09000000
+  - id: 3
+    musicid: 5
+    nameid: 2004
+    descid: 2010
+    unlockcondition: 0300000004000000
+  - id: 4
+    musicid: 8
+    nameid: 2009
+    descid: 2008
+    unlockcondition: 05000000
+  - id: 5
+    musicid: 10
+    nameid: 4001
+    descid: 4005
+    unlockcondition: 00000000
+  - id: 6
+    musicid: 11
+    nameid: 4002
+    descid: 4006
+    unlockcondition: 00000000
+  - id: 7
+    musicid: 12
+    nameid: 4003
+    descid: 4007
+    unlockcondition: 00000000
+  - id: 8
+    musicid: 13
+    nameid: 4004
+    descid: 4008
+    unlockcondition: 00000000
+  - id: 9
+    musicid: 14
+    nameid: 4009
+    descid: 4010
+    unlockcondition: 00000000

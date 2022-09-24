@@ -1,0 +1,95 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &5390213464264684991
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 5390213464264684989}
+  - component: {fileID: 5390213464264684990}
+  m_Layer: 0
+  m_Name: UIManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &5390213464264684989
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5390213464264684991}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &5390213464264684990
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5390213464264684991}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbc7306074f99e749b01aeaadfaf7599, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  panels:
+  - id: 5
+    panel: {fileID: 6128008403239040340, guid: 8d292032f24af90489537daf76c9acc2, type: 3}
+    renderDistance: 100
+  - id: 6
+    panel: {fileID: 3727422115478014021, guid: 00d77acd33f168e47bd3d527e4554820, type: 3}
+    renderDistance: 3
+  - id: 2
+    panel: {fileID: 3727422115478014021, guid: d6ea68c1e8ce4fe4e9a29a8ab850f44c, type: 3}
+    renderDistance: 3
+  - id: 3
+    panel: {fileID: 3727422115478014021, guid: 3d1f993dd943e404499c56ae69bd3008, type: 3}
+    renderDistance: 5
+  - id: 0
+    panel: {fileID: 3727422115478014021, guid: bafcb534b66937041aa19fee6159670d, type: 3}
+    renderDistance: 5
+  - id: 7
+    panel: {fileID: 3727422115478014021, guid: af5d1fd72ec217e45abd076a2c8a9b0c, type: 3}
+    renderDistance: 5
+  - id: 9
+    panel: {fileID: 3727422115478014021, guid: ec6c3cf9adc9caa4bada14ca32fc4c22, type: 3}
+    renderDistance: 5
+  - id: 1
+    panel: {fileID: 3727422115478014021, guid: 0545486cc53060948a56f5f002d1434e, type: 3}
+    renderDistance: 5
+  - id: 8
+    panel: {fileID: 3727422115478014021, guid: 80e78576545e4ac49b7e8e7dafd18655, type: 3}
+    renderDistance: 5
+  - id: 4
+    panel: {fileID: 3727422115478014021, guid: f5ded7f345c0d1341bba5013998f65f8, type: 3}
+    renderDistance: 3
+  - id: 10
+    panel: {fileID: 3727422115478014021, guid: 6469c1364d995704a9570b107bcaa25b, type: 3}
+    renderDistance: 3
+  - id: 11
+    panel: {fileID: 3727422115478014021, guid: 256c0c13a3b71624a93edcd71f9f43e4, type: 3}
+    renderDistance: 3
+  - id: 12
+    panel: {fileID: 3727422115478014021, guid: 53e4157ff3652f44c9fbfb42e34e8d73, type: 3}
+    renderDistance: 3
+  - id: 13
+    panel: {fileID: 3727422115478014021, guid: 6526b3a851ed8654990532120ef4e7c8, type: 3}
+    renderDistance: 3
+  - id: 14
+    panel: {fileID: 3727422115478014021, guid: b3e96daa6c21d754bafcfef6adcc890d, type: 3}
+    renderDistance: 3
+  - id: 15
+    panel: {fileID: 3727422115478014021, guid: 0f1e5b2a517e7844a85c72f6a54c388b, type: 3}
+    renderDistance: 3

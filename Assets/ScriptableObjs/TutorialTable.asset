@@ -1,0 +1,418 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9c2444012795bd948bf2308f97b9f9dd, type: 3}
+  m_Name: TutorialTable
+  m_EditorClassIdentifier: 
+  SheetName: Assets/ScriptableObjs/TextTable.xlsx
+  WorksheetName: TutorialTable
+  dataArray:
+  - id: 1
+    text: 1100
+    keyboard: 0
+    gamepad: 0
+    animtype: 2
+  - id: 2
+    text: 1101
+    keyboard: 1001
+    gamepad: 1004
+    animtype: 1
+  - id: 3
+    text: 1102
+    keyboard: 1002
+    gamepad: 1005
+    animtype: 1
+  - id: 4
+    text: 1103
+    keyboard: 1003
+    gamepad: 1006
+    animtype: 1
+  - id: 5
+    text: 1104
+    keyboard: 1007
+    gamepad: 1008
+    animtype: 1
+  - id: 6
+    text: 9000
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 7
+    text: 9001
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 8
+    text: 9002
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 9
+    text: 9003
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 10
+    text: 9004
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 11
+    text: 9005
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 12
+    text: 9007
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 13
+    text: 9008
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 14
+    text: 9009
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 15
+    text: 9010
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 16
+    text: 9011
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 17
+    text: 9012
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 18
+    text: 9013
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 19
+    text: 9014
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 20
+    text: 9015
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 21
+    text: 9016
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 22
+    text: 9017
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 23
+    text: 9018
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 24
+    text: 9019
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 25
+    text: 9020
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 26
+    text: 9021
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 27
+    text: 9022
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 28
+    text: 9023
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 29
+    text: 9024
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 30
+    text: 9025
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 31
+    text: 9006
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 32
+    text: 2005
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 33
+    text: 1105
+    keyboard: 1001
+    gamepad: 1004
+    animtype: 1
+  - id: 34
+    text: 1106
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 35
+    text: 1107
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 36
+    text: 1108
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 37
+    text: 1109
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 38
+    text: 1110
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 39
+    text: 1111
+    keyboard: 1002
+    gamepad: 1005
+    animtype: 0
+  - id: 40
+    text: 1112
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  dataList:
+  - id: 1
+    text: 1100
+    keyboard: 0
+    gamepad: 0
+    animtype: 2
+  - id: 2
+    text: 1101
+    keyboard: 1001
+    gamepad: 1004
+    animtype: 1
+  - id: 3
+    text: 1102
+    keyboard: 1002
+    gamepad: 1005
+    animtype: 1
+  - id: 4
+    text: 1103
+    keyboard: 1003
+    gamepad: 1006
+    animtype: 1
+  - id: 5
+    text: 1104
+    keyboard: 1007
+    gamepad: 1008
+    animtype: 1
+  - id: 6
+    text: 9000
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 7
+    text: 9001
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 8
+    text: 9002
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 9
+    text: 9003
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 10
+    text: 9004
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 11
+    text: 9005
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 12
+    text: 9007
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 13
+    text: 9008
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 14
+    text: 9009
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 15
+    text: 9010
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 16
+    text: 9011
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 17
+    text: 9012
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 18
+    text: 9013
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 19
+    text: 9014
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 20
+    text: 9015
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 21
+    text: 9016
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 22
+    text: 9017
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 23
+    text: 9018
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 24
+    text: 9019
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 25
+    text: 9020
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 26
+    text: 9021
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 27
+    text: 9022
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 28
+    text: 9023
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 29
+    text: 9024
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 30
+    text: 9025
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 31
+    text: 9006
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 32
+    text: 2005
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 33
+    text: 1105
+    keyboard: 1001
+    gamepad: 1004
+    animtype: 1
+  - id: 34
+    text: 1106
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 35
+    text: 1107
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 36
+    text: 1108
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 37
+    text: 1109
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 38
+    text: 1110
+    keyboard: 0
+    gamepad: 0
+    animtype: 0
+  - id: 39
+    text: 1111
+    keyboard: 1002
+    gamepad: 1005
+    animtype: 0
+  - id: 40
+    text: 1112
+    keyboard: 0
+    gamepad: 0
+    animtype: 0

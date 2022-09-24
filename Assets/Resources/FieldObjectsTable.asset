@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e8bbd7e0b13c1854284f90b331443085, type: 3}
+  m_Name: FieldObjectsTable
+  m_EditorClassIdentifier: 
+  editorFieldObjects:
+  - key: Brick
+    objectPrefab: {fileID: 280875781877990404, guid: 2db05cc4e1b7d5a4585f90499b0b135b,
+      type: 3}
+  - key: Jump
+    objectPrefab: {fileID: 555758871767220940, guid: 1bd6c31767f722348b00a8002d36a596,
+      type: 3}
+  - key: Slide
+    objectPrefab: {fileID: 5014399331953268937, guid: 21b150329d54a074eaa9056eff563ef9,
+      type: 3}
+  - key: Kick
+    objectPrefab: {fileID: 5014399331953268937, guid: b3b2e35a987ce8b42b6d83611e0ab0a3,
+      type: 3}
+  - key: Lantern
+    objectPrefab: {fileID: 280875781877990404, guid: 8a0c6ba87b1b6ba4388b98fd75481f99,
+      type: 3}
+  - key: Missile
+    objectPrefab: {fileID: 280875781877990404, guid: 8a0c6ba87b1b6ba4388b98fd75481f99,
+      type: 3}
+  - key: Reverse
+    objectPrefab: {fileID: 280875781877990404, guid: 8a0c6ba87b1b6ba4388b98fd75481f99,
+      type: 3}
+  fieldObjects:
+  - key: Brick
+    objectPrefab: {fileID: 5707725881531383703, guid: e024a1b417cb2e4459bba78bf4fa4369,
+      type: 3}
+  - key: Jump
+    objectPrefab: {fileID: 6172912237496692151, guid: 8fdd3e05d8cf0bb49a25ad2ce347da50,
+      type: 3}
+  - key: Slide
+    objectPrefab: {fileID: 7424569623451003891, guid: 9aaf25823bcdf3b48a0f4aef8051bbe1,
+      type: 3}
+  - key: Kick
+    objectPrefab: {fileID: 7339722040871029674, guid: 79b7d6b4b1b0ea849929c436469f9f12,
+      type: 3}
+  - key: Lantern
+    objectPrefab: {fileID: 6172912237496692151, guid: 500892bf11593134b86bbab2c792325d,
+      type: 3}
+  - key: Missile
+    objectPrefab: {fileID: 6172912237496692151, guid: 8fdd3e05d8cf0bb49a25ad2ce347da50,
+      type: 3}
+  - key: Reverse
+    objectPrefab: {fileID: 6172912237496692151, guid: 8fdd3e05d8cf0bb49a25ad2ce347da50,
+      type: 3}
